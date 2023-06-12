@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GilbertJin
-- 👀 I’m interested in programming in C/C++ and Python, and reinforce learning, especially GAN.
-- 🌱 I’m currently learning everything about GAN. Of course, all the college curricula are also in need of learning.
+- 👀 I’m interested in programming in C, C++, Python, Java, Dart, etc.
+- 🌱 I’m currently learning everything about computer science and artificial intelligence.
 - 📫 How to reach me? Just leave a message in my website or send me an email.
 
 <!---
